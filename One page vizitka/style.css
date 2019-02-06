@@ -1,0 +1,25 @@
+body {
+    background-image: url(http://cdn.mos.cms.futurecdn.net/FUE7XiFApEqWZQ85wYcAfM.jpg);
+    background-size: cover;           
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.wrap { 
+    width: 800px; 
+    margin: 0 auto; 
+    background: #ccc9c9; 
+    height: 500px;
+    text-align: left;
+    
+}
+
+    .wrapper {
+        font-size: 35px;
+        text-align: center;
+        font-family: "Lobster", serif;
+    }
+
+.manda {
+    text-align: center;
+} 
